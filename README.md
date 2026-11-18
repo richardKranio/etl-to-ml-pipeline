@@ -1,5 +1,7 @@
 # De ETL a IA: Pipeline Reproducible de Datos para Machine Learning
 
+<img width="2400" height="1350" alt="etl_a_ia_hero" src="https://github.com/user-attachments/assets/8c4f8857-b63c-4dd9-aa8f-caf954e1e783" />
+
 Proyecto práctico de acompañamiento al artículo técnico de Kranio: **"De ETL a IA: Cómo Transformar Datos para Machine Learning"**.
 
 Demuestra cómo llevar datos transaccionales crudos a través de una arquitectura modular (**Bronze $\rightarrow$ Silver $\rightarrow$ Gold ML-Ready**) para predecir el abandono de clientes (*Customer Churn*), aplicando **Contratos de Datos**, **Feature Engineering RFM** sin *Data Leakage* y un **Pipeline unificado de `scikit-learn`**.
