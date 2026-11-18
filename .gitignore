@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Generated data & model artifacts (reproducible via run_pipeline.py)
+data/
+artifacts/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
